@@ -1,10 +1,10 @@
-📝 To-Do Application
+#📝 To-Do Application
 
 To-Do Application은 간단한 할 일 관리 애플리케이션으로, 사용자가 할 일을 추가하고, 완료 상태를 변경하며, 목록에서 삭제할 수 있는 기능을 제공합니다. 이 애플리케이션은 FastAPI와 SQLAlchemy를 사용하여 데이터베이스와 상호작용하며, 사용자 인터페이스는 HTML 템플릿을 사용하여 구현되었습니다.
 
 
 
-✨ Features
+#✨ Features
 
 🖊️ 할 일 추가(Add To-Do): 새로운 할 일을 추가할 수 있습니다.
 
@@ -17,7 +17,7 @@ To-Do Application은 간단한 할 일 관리 애플리케이션으로, 사용�
 📄 할 일 목록 보기(View To-Do List): 모든 할 일을 한눈에 볼 수 있습니다.
 
 
-🛠️ Technologies Used
+#🛠️ Technologies Used
 
 - FastAPI: 백엔드 웹 프레임워크
 
