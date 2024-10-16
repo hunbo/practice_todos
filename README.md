@@ -12,14 +12,14 @@ To-Do Application은 간단한 할 일 관리 애플리케이션으로, 사용�
 
 🛠️ Technologies Used
 
-FastAPI: 백엔드 웹 프레임워크
+- FastAPI: 백엔드 웹 프레임워크
 
-SQLAlchemy: 데이터베이스 ORM (Object Relational Mapping)
+- SQLAlchemy: 데이터베이스 ORM (Object Relational Mapping)
 
-SQLite: 경량 데이터베이스
+- SQLite: 경량 데이터베이스
 
-Jinja2: HTML 템플릿 엔진
+- Jinja2: HTML 템플릿 엔진
 
-HTML/CSS: 프론트엔드 디자인
+- HTML/CSS: 프론트엔드 디자인
 
-Python: 백엔드 로직 구현
+- Python: 백엔드 로직 구현
