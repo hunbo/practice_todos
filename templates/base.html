@@ -1,0 +1,26 @@
+<!---parent page-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/static/css/main.css">
+    <title>TO-DO Application</title>
+</head>
+<body>
+     <!-- <img src="/static/images/images.png" alt="todo 이미지"> -->
+
+     <main>
+        <a href="/"><p class="head_img"></p></a>
+        <h4>나를 성장시키는 메모</h4>
+        <br>
+        {% block content %}
+        <!---page which children page should fill out-->
+        {% endblock content %}
+
+    </main>
+</body>
+</html>        
